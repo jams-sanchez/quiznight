@@ -1,14 +1,14 @@
 # 💀 S-quiz Game 
 
-Un site de quiz dont vous ne resortirez pas vivant...
+Un site de quiz dont vous ne ressortirez pas vivant...
 
 Ce site réalisé sur le theme de la série Squid Game, permet à un utilisateur d'experimenter cette experience farfelu.
 Une fois inscrit sur le site, l'utilisateur possède un numéro d'identification unique ainsi que 10 vies.
 Il peut créer des quiz et/ou apporter des modifications à ceux-ci.
-Il peut aussi jouer aux quiz proposés ou ses quiz personnel.
+Il peut aussi jouer aux quiz proposés ou ses quiz personnels.
 Une mauvaise réponse coûte une vie.
 Une fois les 10 vies écoulées, l'utilisateur est éliminé. Il ne peut plus se connecter et son joueur apparait dans la liste des joueurs éliminés.
-Il doit donc se réinscrire pour joueur à nouveau.
+Il doit donc se réinscrire pour jouer à nouveau.
 
 ## 📓 Le projet 
 
